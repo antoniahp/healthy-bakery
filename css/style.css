@@ -6,6 +6,14 @@ body {
   overflow-x: hidden;
 }
 
+.texto-destacado {
+  color: red;
+}
+
+.texto-guay {
+  color: rgb(156, 242, 28);
+}
+
 .layout_padding {
   padding: 90px 0;
 }
