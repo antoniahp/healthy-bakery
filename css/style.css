@@ -11,7 +11,11 @@ body {
 }
 
 .texto-guay {
-  color: rgb(156, 242, 28);
+  color: #1cc0f2;
+}
+
+.texto-salty{
+  color:#acf750
 }
 
 .layout_padding {
